@@ -1,4 +1,4 @@
-# Machine Learning-Driven EEG Insights
+# Machine Learning-Driven EEG Insights (Work in Progress)
 
 ## Overview
 
