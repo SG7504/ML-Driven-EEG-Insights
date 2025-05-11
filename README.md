@@ -24,7 +24,14 @@ This project utilizes machine learning to analyze EEG (electroencephalogram) dat
 2. **Model Training**: Train machine learning models on preprocessed data.
 3. **API Deployment**: Use FastAPI to serve predictions.
 
-## License
+## 📜 License
 
-This project is **not open-source** and is protected under an **All Rights Reserved** policy. Unauthorized distribution, reproduction, or modification of this code is strictly prohibited. Contact the repository owner for permissions or collaborations.
+This project is licensed under the [MIT License](https://github.com/SG7504/ML-Driven-EEG-Insights/blob/main/LICENSE).
+
+
+---
+
+## 📌 Credits
+
+Developed by [Sparsh Guha](https://github.com/SG7504)
 
