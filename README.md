@@ -26,7 +26,8 @@ This project utilizes machine learning to analyze EEG (electroencephalogram) dat
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/SG7504/ML-Driven-EEG-Insights/blob/main/LICENSE).
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
 
 
 ---
